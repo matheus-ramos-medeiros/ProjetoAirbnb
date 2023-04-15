@@ -27,4 +27,4 @@ Neste projeto, eu explorei um conjunto de dados do Airbnb em Paris que contém i
 Análise Exploratória de Dados
 * **[Projetos Unicornios](https://github.com/matheus-ramos-medeiros/ProjetoUnicornios/blob/main/Projeto_Unicornios.ipynb)**
 
-* **[Projeto de Estudantes](https://github.com/matheus-ramos-medeiros/ProjetoEstudantes/blob/main/Projeto_Estudante.ipynbl)**
+* **[Projeto de Estudantes](https://github.com/matheus-ramos-medeiros/ProjetoEstudantes/blob/main/Projeto_Estudante.ipynb)**
